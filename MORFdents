@@ -1,0 +1,46 @@
+       student       | average_assignment_duration 
+---------------------+-----------------------------
+ Hettie Hettinger    |        140.0533333333333333
+ Santino Oberbrunner |        139.2991803278688525
+ Vance Kihn          |        100.0730994152046784
+ Jerrold Rohan       |         99.3553719008264463
+ Vivienne Larson     |         96.1818181818181818
+ Sean Bartell        |         94.9056047197640118
+ Fannie Hammes       |         94.8833333333333333
+ Javonte Ward        |         93.9642857142857143
+ Bart Leuschke       |         93.7341040462427746
+ Bertha Johnson      |         93.4252199413489736
+ Ike Lockman         |         92.1510204081632653
+ Billie Mitchell     |         91.8454810495626822
+ Marisa Rau          |         91.2941176470588235
+ Eunice Morar        |         90.9230769230769231
+ Freeman Marks       |         88.4786324786324786
+ Jerrold Lindgren    |         87.4545454545454545
+ Marge Padberg       |         58.5657142857142857
+ Briana Leffler      |         58.2862745098039216
+ Holly Nitzsche      |         58.0163934426229508
+ Sarai Flatley       |         57.8367346938775510
+ Shannon Tromp       |         57.6653696498054475
+ Luisa Sipes         |         57.5561959654178674
+ Deon Hahn           |         57.3160919540229885
+ Brook Fadel         |         57.1982758620689655
+ Magali Rolfson      |         57.1942857142857143
+ Jacinthe Skiles     |         57.1839080459770115
+ Ibrahim Schimmel    |         56.9256198347107438
+ Ibrahim Lubowitz    |         56.8235294117647059
+ Jessika Jenkins     |         56.7950819672131148
+ Darien Luettgen     |         56.7213114754098361
+ Trace Mohr          |         56.6250000000000000
+ Tessie Wisozk       |         56.3304597701149425
+ Kurt Turcotte       |         56.2312138728323699
+ Hayden Cronin       |         56.0991735537190083
+ Aurore Yundt        |         56.0086455331412104
+ Hadley Corkery      |         55.8099173553719008
+ Elda McClure        |         55.4069767441860465
+ Jeramie Volkman     |         54.8677685950413223
+ Florida Turner      |         42.5934959349593496
+ Nola Jerde          |         42.2764227642276423
+ Cory Toy            |         41.8800000000000000
+ Delores Gibson      |         41.2971428571428571
+(42 rows)
+
